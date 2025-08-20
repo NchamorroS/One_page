@@ -33,17 +33,18 @@ Dueños y administradores de botillerías que buscan mejorar su gestión interna
 
 ## 🛠 Tecnologías a Utilizar
 - **Backend:** Node.js
-- **Frontend:** Open API
-- **Base de Datos:** CosmosDB
+- **Frontend:** Angular
+- **API:** OpenAPI (Especificación y documentación de servicios REST) 
+- **Base de Datos:** Azure CosmosDB
 - **Despliegue:** Docker
 
 ### 📌 Requisitos de Versiones
 | Tecnología | Versión Recomendada | Motivo |
 |------------|--------------------|--------|
 | Node.js    | >= 18.0.0           | Compatibilidad con dependencias modernas y mejoras de rendimiento. |
-| Express    | ^4.18.0             | Estabilidad y soporte a middleware actualizado. |
 | Angular    | >= 17.0.0           | Mejoras en rendimiento y compatibilidad con Node.js moderno. |
-| MySQL      | >= 8.0.0            | Funciones avanzadas de índices y seguridad. |
+| OpenAPI    | 3.0+                | Estandarización de APIs REST y mejor interoperabilidad. |
+| Azure CosmosDB| Última estable      | Funciones avanzadas de índices y seguridad. |
 | Docker     | >= 24.0.0           | Mejor manejo de recursos y compatibilidad con nuevas imágenes. |
 
 ## 📈 Beneficios Esperados
