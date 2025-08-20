@@ -32,9 +32,9 @@ Dueños y administradores de botillerías que buscan mejorar su gestión interna
 - Control de ventas.
 
 ## 🛠 Tecnologías a Utilizar
-- **Backend:** Node.js + Express
-- **Frontend:** Angular
-- **Base de Datos:** MySQL
+- **Backend:** Node.js
+- **Frontend:** Open API
+- **Base de Datos:** CosmosDB
 - **Despliegue:** Docker
 
 ### 📌 Requisitos de Versiones
